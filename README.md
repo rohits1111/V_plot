@@ -5,8 +5,8 @@
 4. now sort the file and using uniq -c get the frequency of each position and length combination.
 5. now write a python file which reads the data from file_name.tsv using pandas and plot the data using matplotlib.
 **Execute**
-1. now create a sh file using vim and write all the commands used to get the file which will be read by python file.
-2. also the command for applying the python file to the file_name.tsv file.
-3. finally save the file and execute the file using chmod +x file_name.tsv
-4. now run the sh file using sh file_name.sh
+1. now create a sh file using vim and write all the commands used to get the file which will be read by python file scatter.py.
+2. also the command for applying the python file to the file_name.tsv file which will be created as per the sh file command.
+3. finally save the file and execute the file using chmod +x vplot.sh
+4. now run the sh file using sh vplot.sh
 5. finally and scatter plot will be observed where a V shape can be observed
